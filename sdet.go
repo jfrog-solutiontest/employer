@@ -6,7 +6,7 @@ import (
 )
 
 
-func EmployerPackageName () {
+func SDETEmployerPackageName () {
     fmt.Println ("Package Name: Employer")
     employee.sdet()
 }
