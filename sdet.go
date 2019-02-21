@@ -8,5 +8,4 @@ import (
 
 func SDETEmployerPackageName () {
     fmt.Println ("Package Name: Employer")
-    employee.sdet()
 }
